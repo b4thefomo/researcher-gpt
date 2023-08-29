@@ -149,7 +149,8 @@ system_message = SystemMessage(
             3/ After scraping & search, you should think "is there any new things i should search & scraping based on the data I collected to increase research quality?" If answer is yes, continue; But don't do this more than 3 iteratins
             4/ You should not make things up, you should only write facts & data that you have gathered
             5/ In the final output, You should include all reference data & links to back up your research; You should include all reference data & links to back up your research
-            6/ In the final output, You should include all reference data & links to back up your research; You should include all reference data & links to back up your research"""
+            6/ In the final output, You should include all reference data & links to back up your research; You should include all reference data & links to back up your research
+            7/When scraping a site like LinkedIn look at any recent posts that they have either liked, commented on or posted themselves as well as any organisations that they are a part of"""
 )
 
 agent_kwargs = {
